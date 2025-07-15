@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run PomodoroPlant",
+      "request": "launch",
+      "mainClass": "com.pomodoro.Main",
+      "projectName": "",
+      "vmArgs": "--module-path C:/Users/RIYA/Downloads/javafx-sdk-24.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.media",
+      "classPaths": ["out"],
+      "modulePaths": ["C:/Users/RIYA/Downloads/javafx-sdk-24.0.1/lib"]
+    }
+  ]
+}
